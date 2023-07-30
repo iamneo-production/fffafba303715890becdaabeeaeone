@@ -16,3 +16,13 @@ D:/Visual Studio/domaindriven/domaindriven/obj/Debug/net6.0/ref/domaindriven.dll
 /home/coder/project/workspace/domaindriven/obj/Debug/net6.0/domaindriven.csproj.AssemblyReference.cache
 /home/coder/project/workspace/domaindriven/obj/Debug/net6.0/domaindriven.GeneratedMSBuildEditorConfig.editorconfig
 /home/coder/project/workspace/domaindriven/obj/Debug/net6.0/domaindriven.csproj.CoreCompileInputs.cache
+/home/coder/project/workspace/domaindriven/bin/Debug/net6.0/domaindriven
+/home/coder/project/workspace/domaindriven/bin/Debug/net6.0/domaindriven.deps.json
+/home/coder/project/workspace/domaindriven/bin/Debug/net6.0/domaindriven.runtimeconfig.json
+/home/coder/project/workspace/domaindriven/bin/Debug/net6.0/domaindriven.dll
+/home/coder/project/workspace/domaindriven/bin/Debug/net6.0/domaindriven.pdb
+/home/coder/project/workspace/domaindriven/obj/Debug/net6.0/domaindriven.dll
+/home/coder/project/workspace/domaindriven/obj/Debug/net6.0/refint/domaindriven.dll
+/home/coder/project/workspace/domaindriven/obj/Debug/net6.0/domaindriven.pdb
+/home/coder/project/workspace/domaindriven/obj/Debug/net6.0/domaindriven.genruntimeconfig.cache
+/home/coder/project/workspace/domaindriven/obj/Debug/net6.0/ref/domaindriven.dll
